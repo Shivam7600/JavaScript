@@ -32,7 +32,7 @@ const person = {
 //Array object
 const cars = ["mercedes", "BMW", "ferrari"]
 
-//De Object
+//Date Object
 const dates = new dates("2022-03-25")
 
 
